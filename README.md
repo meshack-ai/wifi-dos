@@ -2,6 +2,8 @@
 bash tool to dos wifi AP
 
 
-usage
+#usage
 git clone https://github.com/meshack-ai/wifi-dos.git
+
+#
 
